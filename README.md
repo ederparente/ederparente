@@ -5,25 +5,25 @@
      by the GitHub Actions workflow or by running: python -m generator.main -->
 
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+  <img src="https://raw.githubusercontent.com/ederparente/ederparente/main/assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+  <img src="https://raw.githubusercontent.com/ederparente/ederparente/main/assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+  <img src="https://raw.githubusercontent.com/ederparente/ederparente/main/assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+  <img src="https://raw.githubusercontent.com/ederparente/ederparente/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div>
 
 <br/>
