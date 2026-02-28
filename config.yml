@@ -16,11 +16,10 @@ username: ederparente
 profile:
   name: "Eder Parente"
   tagline: "Data Engineer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  company: ""
+  location: "Sao Paulo, Brazil"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
+    Building scalable data pipelines and analytics solutions for real-world business problems.
   philosophy: '"The best code is the code that empowers others."'
 #  company: ""
 #  location: "Sao Paulo, Brazil"
@@ -47,13 +46,12 @@ galaxy_arms:
     color: "synapse_cyan"
     items:
       - "Python"
-      - "SQL Server"
-      - "Oracle"
+      - "SQL"
   - name: "DevOps"
     color: "axon_amber"
     items:
       - "Docker"
-      - "GitHub Actions"
+      - "Linux"
       - "Azure"
 
 # Featured projects shown as constellation stars
