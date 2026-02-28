@@ -21,11 +21,6 @@ profile:
   bio: |-
     Building scalable data pipelines and analytics solutions for real-world business problems.
   philosophy: '"The best code is the code that empowers others."'
-#  company: ""
-#  location: "Sao Paulo, Brazil"
-#  bio: |
-#    Building scalable data pipelines and analytics solutions for real-world business problems.
-#  philosophy: '"The best code is the code that empowers others."'
 
 # Social links displayed at the bottom of the profile
 social:
