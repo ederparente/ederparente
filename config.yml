@@ -16,11 +16,17 @@ username: ederparente
 profile:
   name: "Eder Parente"
   tagline: "Data Engineer"
-  company: ""
-  location: "Sao Paulo, Brazil"
+  company: "Stellar Labs"
+  location: "San Francisco, CA"
   bio: |
-    Building scalable data pipelines and analytics solutions for real-world business problems.
+    Building tools that make developers' lives easier.
+    Passionate about distributed systems, developer experience, and the open-source ecosystem.
   philosophy: '"The best code is the code that empowers others."'
+#  company: ""
+#  location: "Sao Paulo, Brazil"
+#  bio: |
+#    Building scalable data pipelines and analytics solutions for real-world business problems.
+#  philosophy: '"The best code is the code that empowers others."'
 
 # Social links displayed at the bottom of the profile
 social:
